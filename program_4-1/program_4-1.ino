@@ -19,7 +19,7 @@
 #define IN4 7    // Digital Pin 7 to MCU IN4
 
 
-// INITIALISE SENSOR
+// INITIALISE ULTRASONIC SENSOR
 #define TRIG_PIN 13       // HCSR04 trigger pin connected to pin 13
 #define ECHO_PIN 12       // HCSR04 echo pin connected to pin 12
 

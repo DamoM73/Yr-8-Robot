@@ -8,7 +8,7 @@
 
 #include <HCSR04.h>       // Tells the program to use the library we installed
 
-// INITIALISE SENSOR
+// INITIALISE ULTRASONIC SENSOR
 #define TRIG_PIN 13       // HCSR04 trigger pin connected to pin 13
 #define ECHO_PIN 12       // HCSR04 echo pin connected to pin 12
 
